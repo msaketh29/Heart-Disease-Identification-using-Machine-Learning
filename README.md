@@ -141,8 +141,4 @@ These metrics help evaluate how effectively the models classify heart disease ca
 
 ---
 
-## 🎯 Objective
-
-The objective of this project is to apply machine learning techniques to patient health data and develop a web-based system for preliminary heart disease risk prediction.
-
 > **Note:** This project is intended for educational and research purposes and is not a substitute for professional medical diagnosis.
