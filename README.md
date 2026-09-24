@@ -27,6 +27,50 @@ A machine learning-based heart disease detection system built with Python and Fl
 | Frontend         | HTML, CSS                              |
 | Database         | MySQL                                  |
 
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/heart-disease-detection.git
+cd heart-disease-detection
+```
+
+### 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Or install the main dependencies manually:
+
+```bash
+pip install flask pandas numpy scikit-learn mysql-connector-python
+```
+
+### 3. Configure the database
+
+Configure the MySQL database connection in the Flask application using your database credentials.
+
+### 4. Add the dataset
+
+Place the heart disease dataset in the required project directory.
+
+### 5. Run the app
+
+```bash
+python app.py
+```
+
+### 6. Open in browser
+
+```text
+http://127.0.0.1:5000
+```
+
+---
 
 ## 🧠 How It Works
 
@@ -101,3 +145,4 @@ These metrics help evaluate how effectively the models classify heart disease ca
 
 The objective of this project is to apply machine learning techniques to patient health data and develop a web-based system for preliminary heart disease risk prediction.
 
+> **Note:** This project is intended for educational and research purposes and is not a substitute for professional medical diagnosis.
